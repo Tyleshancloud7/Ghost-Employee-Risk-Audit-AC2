@@ -3,14 +3,6 @@
 Check out the demo video here:  
 [Watch Demo](https://www.loom.com/share/5f09774b90c24f5c872a270d294060fb)
 
-  add README.md
-git commit -m "Add Loom demo link to README"
-git push origin main
-
-git add README.md
-git commit -m "Polished README with Loom demo and badges"
-git push origin main
-
 
 
 git add README.md
