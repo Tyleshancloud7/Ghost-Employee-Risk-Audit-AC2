@@ -6,7 +6,7 @@ Check out the demo video here:
 
 nano README.md
 
-nh# Ghost Employee Risk Audit – AC-2 Control Implementation
+Ghost Employee Risk Audit – AC-2 Control Implementation
 
 > Kill ghost accounts before they haunt your company 👻💻  
 > Operationalized insider access risk audit built on NIST SP 800-53 AC-2
