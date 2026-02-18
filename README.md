@@ -1,4 +1,25 @@
-# Ghost Employee Risk Audit – AC-2 Control Implementation
+
+[![Watch Demo](https://cdn.loom.com/screenshot/YOUR_LOOM_LINK_THUMBNAIL.png)]]https://www.loom.com/share/5f09774b90c24f5c872a270d294060fbgit add README.md
+git commit -m "Add Loom demo link to README"
+git push origin main
+
+git add README.md
+git commit -m "Polished README with Loom demo and badges"
+git push origin main
+
+
+
+git add README.md
+git commit -m "Add Loom demo link to README"
+git push origin main
+
+git add README.md
+git commit -m "Polished README with Loom demo and badges"
+git push origin main
+
+nano README.md
+
+nh# Ghost Employee Risk Audit – AC-2 Control Implementation
 
 > Kill ghost accounts before they haunt your company 👻💻  
 > Operationalized insider access risk audit built on NIST SP 800-53 AC-2
